@@ -1,0 +1,1 @@
+Now i gotta say it needs just a single one consistency. when you put a string or character rather than a integer as a FILA, COLUMNA, it doesnt detect the error so you must add that single one consistency
